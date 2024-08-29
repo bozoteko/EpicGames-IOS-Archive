@@ -1,7 +1,7 @@
 
 <div align=center>
 
- Epic Games IOS Archive
+# <img src="https://i.imgur.com/kUmoSIz.png" alt="Epic Games Logo" width="20" height="24"> Epic Games IOS Archive
 A archive full of Fortnite, Fallguys, Epic Games Launcher ETC.
 
 </div>
