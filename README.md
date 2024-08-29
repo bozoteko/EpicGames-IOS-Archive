@@ -7,9 +7,9 @@ A archive full of Fortnite, Fallguys, Epic Games Launcher ETC.
 </div>
 <br>
 
-## Fortnite
+# Fortnite
 
-# Chapter 1
+## Chapter 1
 
 | Season | Build | Download | 
 | :---: | ----------- | ----------- | 
@@ -26,7 +26,7 @@ A archive full of Fortnite, Fallguys, Epic Games Launcher ETC.
 | Season 7 | Fortnite+Release-7.40-CL-5011364 | TBD |
 | Season 10 | Fortnite+Release-10.0-CL-7655413 | TBD |
 
-# Chapter 2
+## Chapter 2
 
 | Season | Build | Download |
 | :---: | ----------- | ----------- | 
@@ -38,7 +38,7 @@ A archive full of Fortnite, Fallguys, Epic Games Launcher ETC.
 | Season 2 | Fortnite+Release-12.40-CL-12743645 | TBD |
 | Season 3 | Fortnite+Release-13.40-CL-14050091 | TBD |
 
-# Chapter 5
+## Chapter 5
 
 | Season | Build | Download |
 | :---: | ----------- | ----------- | 
