@@ -13,18 +13,18 @@ A archive full of Fortnite, Fallguys, Epic Games Launcher ETC.
 
 | Season | Build | Download | 
 | :---: | ----------- | ----------- | 
-| Season 3 | Fortnite+Release-3.3-CL-3944819 | TBD |
-| Season 3 | Fortnite+Release-3.4-CL-3968866 | TBD |
-| Season 3 | Fortnite+Release-3.5-CL-3994867 | TBD |
-| Season 4 | Fortnite+Release-4.2-CL-4072250 | TBD |
-| Season 5 | Fortnite+Release-5.20-CL-4261111 | TBD |
-| Season 5 | Fortnite+Release-5.40-CL-4342997 | TBD |
-| Season 6 | Fortnite+Release-6.00-CL-4395664 | TBD |
-| Season 6 | Fortnite+Release-6.01-CL-4413911 | TBD |
-| Season 6 | Fortnite+Release-6.20-CL-4503517 | TBD |
-| Season 7 | Fortnite+Release-7.20-CL-4727874 | TBD |
-| Season 7 | Fortnite+Release-7.40-CL-5011364 | TBD |
-| Season 10 | Fortnite+Release-10.0-CL-7655413 | TBD |
+| Season 3 | Fortnite+Release-3.3-CL-3944819 | Download |
+| Season 3 | Fortnite+Release-3.4-CL-3968866 | Download |
+| Season 3 | Fortnite+Release-3.5-CL-3994867 | Download |
+| Season 4 | Fortnite+Release-4.2-CL-4072250 | [Download](https://github.com/bozoteko/EpicGames-IOS-Archive/releases/download/release/Fortnite+Release-4.2-CL-4072250.ipa) |
+| Season 5 | Fortnite+Release-5.20-CL-4261111 | [Download](https://github.com/bozoteko/EpicGames-IOS-Archive/releases/download/release/Fortnite+Release-5.20-CL-4261111.ipa) |
+| Season 5 | Fortnite+Release-5.40-CL-4342997 | [Download](https://github.com/bozoteko/EpicGames-IOS-Archive/releases/download/release/Fortnite+Release-5.40-CL-4342997.ipa) |
+| Season 6 | Fortnite+Release-6.00-CL-4395664 | [Download](https://github.com/bozoteko/EpicGames-IOS-Archive/releases/download/release/Fortnite+Release-6.00-CL-4395664.ipa) |
+| Season 6 | Fortnite+Release-6.01-CL-4413911 | [Download](https://github.com/bozoteko/EpicGames-IOS-Archive/releases/download/release/Fortnite+Release-6.01-CL-4413911.ipa) |
+| Season 6 | Fortnite+Release-6.20-CL-4503517 | [Download](https://github.com/bozoteko/EpicGames-IOS-Archive/releases/download/release/Fortnite+Release-6.20-CL-4503517.ipa) |
+| Season 7 | Fortnite+Release-7.20-CL-4727874 | [Download](https://github.com/bozoteko/EpicGames-IOS-Archive/releases/download/release/Fortnite+Release-7.20-CL-4727874.ipa) |
+| Season 7 | Fortnite+Release-7.40-CL-5011364 | [Download](https://github.com/bozoteko/EpicGames-IOS-Archive/releases/download/release/Fortnite+Release-7.40-CL-5011364.ipa) |
+| Season 10 | Fortnite+Release-10.0-CL-7655413 | [Download](https://github.com/bozoteko/EpicGames-IOS-Archive/releases/download/release/Fortnite+Release-10.0-CL-7655413.ipa) |
 
 ### Chapter 2
 
