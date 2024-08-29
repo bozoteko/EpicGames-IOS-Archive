@@ -13,9 +13,9 @@ A archive full of Fortnite, Fallguys, Epic Games Launcher ETC.
 
 | Season | Build | Download | 
 | :---: | ----------- | ----------- | 
-| Season 3 | Fortnite+Release-3.3-CL-3944819 | Download |
-| Season 3 | Fortnite+Release-3.4-CL-3968866 | Download |
-| Season 3 | Fortnite+Release-3.5-CL-3994867 | Download |
+| Season 3 | Fortnite+Release-3.3-CL-3944819 | [Download](https://github.com/bozoteko/EpicGames-IOS-Archive/releases/download/Chapter1Builds/Fortnite+Release-3.3-CL-3944819.ipa) |
+| Season 3 | Fortnite+Release-3.4-CL-3968866 | [Download](https://github.com/bozoteko/EpicGames-IOS-Archive/releases/download/Chapter1Builds/Fortnite+Release-3.4-CL-3968866.ipa) |
+| Season 3 | Fortnite+Release-3.5-CL-3994867 | [Download](https://github.com/bozoteko/EpicGames-IOS-Archive/releases/download/Chapter1Builds/Fortnite+Release-3.5-CL-3994867.ipa) |
 | Season 4 | Fortnite+Release-4.2-CL-4072250 | [Download](https://github.com/bozoteko/EpicGames-IOS-Archive/releases/download/release/Fortnite+Release-4.2-CL-4072250.ipa) |
 | Season 5 | Fortnite+Release-5.20-CL-4261111 | [Download](https://github.com/bozoteko/EpicGames-IOS-Archive/releases/download/release/Fortnite+Release-5.20-CL-4261111.ipa) |
 | Season 5 | Fortnite+Release-5.40-CL-4342997 | [Download](https://github.com/bozoteko/EpicGames-IOS-Archive/releases/download/release/Fortnite+Release-5.40-CL-4342997.ipa) |
