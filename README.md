@@ -29,12 +29,12 @@ A archive full of Fortnite, Fallguys, Epic Games Launcher ETC.
 | Season | Build | Download |
 | :---: | ----------- | ----------- | 
 | Chapter 2 Season 1 | Fortnite+Release-11.31-CL-10805056 | TBD |
-| 11 | Fortnite+Release-11.40-CL-11058555 | TBD |
-| 11 | Fortnite+Release-11.40-CL-11109625 | TBD |
-| 12 | Fortnite+Release-12.10-CL-11932896 | TBD |
-| 12 | Fortnite+Release-12.30-CL-12502545 | TBD |
-| 12 | Fortnite+Release-12.40-CL-12743645 | TBD |
-| 13 | Fortnite+Release-13.40-CL-14050091 | TBD |
+| Chapter 2 Season 1 | Fortnite+Release-11.40-CL-11058555 | TBD |
+| Chapter 2 Season 1 | Fortnite+Release-11.40-CL-11109625 | TBD |
+| Chapter 2 Season 2 | Fortnite+Release-12.10-CL-11932896 | TBD |
+| Chapter 2 Season 2 | Fortnite+Release-12.30-CL-12502545 | TBD |
+| Chapter 2 Season 2 | Fortnite+Release-12.40-CL-12743645 | TBD |
+| Chapter 2 Season 3 | Fortnite+Release-13.40-CL-14050091 | TBD |
 
 # Chapter 2
 
