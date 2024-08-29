@@ -7,6 +7,8 @@ A archive full of Fortnite, Fallguys, Epic Games Launcher ETC.
 </div>
 <br>
 
+# Fortnite
+
 # Chapter 1
 
 | Season | Build | Download | 
@@ -42,6 +44,8 @@ A archive full of Fortnite, Fallguys, Epic Games Launcher ETC.
 | :---: | ----------- | ----------- | 
 | Season 4 | Fortnite+Release-31.00.1-CL-35522557 | TBD |
 | Season 4 | Fortnite+Release-31.00.2-CL-35668748 | TBD |
+
+# Fallguys
 
 # Credits
 **[Crunnie](https://github.com/Crunnie) & [Atellie](https://github.com/atellies/EpicGamesStoreIPA)** for the Fortnite builds.
