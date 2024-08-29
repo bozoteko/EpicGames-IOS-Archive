@@ -30,13 +30,13 @@ A archive full of Fortnite, Fallguys, Epic Games Launcher ETC.
 
 | Season | Build | Download |
 | :---: | ----------- | ----------- | 
-| Season 1 | Fortnite+Release-11.31-CL-10805056 | TBD |
-| Season 1 | Fortnite+Release-11.40-CL-11058555 | TBD |
-| Season 1 | Fortnite+Release-11.40-CL-11109625 | TBD |
-| Season 2 | Fortnite+Release-12.10-CL-11932896 | TBD |
-| Season 2 | Fortnite+Release-12.30-CL-12502545 | TBD |
-| Season 2 | Fortnite+Release-12.40-CL-12743645 | TBD |
-| Season 3 | Fortnite+Release-13.40-CL-14050091 | TBD |
+| Season 1 | Fortnite+Release-11.31-CL-10805056 | [Download](https://github.com/bozoteko/EpicGames-IOS-Archive/releases/download/ipa/Fortnite+Release-11.31-CL-10805056.ipa) |
+| Season 1 | Fortnite+Release-11.40-CL-11058555 | [Download](https://github.com/bozoteko/EpicGames-IOS-Archive/releases/download/ipa/Fortnite+Release-11.40-CL-11058555.ipa) |
+| Season 1 | Fortnite+Release-11.40-CL-11109625 | [Download](https://github.com/bozoteko/EpicGames-IOS-Archive/releases/download/ipa/Fortnite+Release-11.40-CL-11109625.ipa) |
+| Season 2 | Fortnite+Release-12.10-CL-11932896 | [Download](https://github.com/bozoteko/EpicGames-IOS-Archive/releases/download/ipa/Fortnite+Release-12.10-CL-11932896.ipa) |
+| Season 2 | Fortnite+Release-12.30-CL-12502545 | Download |
+| Season 2 | Fortnite+Release-12.40-CL-12743645 | Download |
+| Season 3 | Fortnite+Release-13.40-CL-14050091 | Download |
 
 ### Chapter 5
 
@@ -49,13 +49,12 @@ A archive full of Fortnite, Fallguys, Epic Games Launcher ETC.
 
 | Build | Download |
 | :---: | ----------- | 
-| FallGuys+Release-11.1.4 | TBD |
-| PlaceHolder | PlaceHolder |
+| FallGuys+Release-11.1.4 | Download |
 
 # Epic Games Store
 | Build | Download |
 | :---: | ----------- | 
-| Epic+Games-0.2.1 | TBD |
+| Epic+Games-0.2.1 | Download |
 
 # Credits
 **[Crunnie](https://github.com/Crunnie) & [Atellie](https://github.com/atellies/EpicGamesStoreIPA)** for the Fortnite builds.
