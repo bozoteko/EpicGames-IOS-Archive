@@ -49,12 +49,12 @@ A archive full of Fortnite, Fallguys, Epic Games Launcher ETC.
 
 | Build | Download |
 | :---: | ----------- | 
-FallGuys+Release-11.1.4 | TBD |
+| FallGuys+Release-11.1.4 | TBD |
 
 # Epic Games Store
-| Update | Build | Download |
-| :---: | ----------- | ----------- | 
-| 0.2.1 | Epic+Games-0.2.1 | TBD |
+| Build | Download |
+| :---: | ----------- | 
+| Epic+Games-0.2.1 | TBD |
 
 # Credits
 **[Crunnie](https://github.com/Crunnie) & [Atellie](https://github.com/atellies/EpicGamesStoreIPA)** for the Fortnite builds.
