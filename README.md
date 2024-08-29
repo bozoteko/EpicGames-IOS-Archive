@@ -1,7 +1,7 @@
 
 <div align=center>
 
-# <img src="https://i.imgur.com/kUmoSIz.png" alt="Epic Games Logo" width="50" height="54"> Epic Games IOS Archive
+<div style="display: flex; align-items: center;"><img src="https://i.imgur.com/kUmoSIz.png" alt="Epic Games Logo" width="50" height="54"><span style="margin-left: 10px;">Epic Games iOS Archive</span></div>
 A archive full of Fortnite, Fallguys, Epic Games Launcher ETC.
 
 </div>
