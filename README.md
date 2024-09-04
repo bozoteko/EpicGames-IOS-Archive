@@ -1,4 +1,4 @@
-
+w
 <div align=center>
 
 # <img src="https://i.imgur.com/kUmoSIz.png" alt="Epic Games Logo" width="24" height="24"> Epic Games IOS Archive
@@ -51,7 +51,7 @@ A archive of Fortnite, Fallguys & Anything Epic Games.
 | Build | Download |
 | :---: | ----------- | 
 | FallGuys+Release-11.1.4 | [Download](https://github.com/bozoteko/EpicGames-IOS-Archive/releases/download/EGFG/FallGuys+Release-11.1.4.ipa) |
-| PLACEHOLDER | PLACEHOLDER | PLACEHOLDER |
+| FallGuys+Release-11.2.0 | [Download](https://github.com/bozoteko/EpicGames-IOS-Archive/releases/download/Releases/Fall.Guys-11.2.0.ipa) |
 
 # Epic Games Store
 | Build | Download |
