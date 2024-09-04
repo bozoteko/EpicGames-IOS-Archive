@@ -44,7 +44,7 @@ A archive of Fortnite, Fallguys & Anything Epic Games.
 | :---: | ----------- | ----------- | 
 | Season 4 | Fortnite+Release-31.00.1-CL-35522557 | [Download](https://github.com/bozoteko/EpicGames-IOS-Archive/releases/download/NewBuilds/Fortnite+Release-31.00.1-CL-35522557.ipa) |
 | Season 4 | Fortnite+Release-31.00.2-CL-35668748 | [Download](https://github.com/bozoteko/EpicGames-IOS-Archive/releases/download/NewBuilds/Fortnite+Release-31.00.2-CL-35668748.ipa) |
-| Season 4 | Fortnite+Release-31.10-CL-35815136 | Download |
+| Season 4 | Fortnite+Release-31.10-CL-35815136 | [Download](https://github.com/bozoteko/EpicGames-IOS-Archive/releases/download/NewBuild/Fortnite+Release-31.10-CL-35815136.ipa) |
 
 # Fallguys
 
