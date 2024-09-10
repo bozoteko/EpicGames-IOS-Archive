@@ -2,7 +2,7 @@
 <div align=center>
 
 # <a href="https://store.epicgames.com/en-US/" target="_blank"><img src="https://i.imgur.com/kUmoSIz.png" alt="Epic Games Logo" width="24" height="24"></a> Epic Games IOS Archive
-A archive of Fortnite, Fallguys & Anything Epic Games.
+An IPA archive of Fortnite, Fallguys & Anything Epic Games.
 
 </div>
 <br>
